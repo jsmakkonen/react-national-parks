@@ -1,0 +1,39 @@
+body {
+  background-color: #FCFDF8;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif; }
+
+.header {
+  height: 100px; }
+
+.navbar {
+  background-color: #08302F; }
+
+.park-card {
+  margin-left: 10px;
+  margin-bottom: 10px;
+  max-width: 300px;
+  width: 300px; }
+
+.park-card.card {
+  height: 600px; }
+
+.card-footer-badge {
+  font-size: 1rem; }
+
+.text-year, .text-area {
+  padding-top: 7px; }
+
+.badge-primary {
+  background-color: #4484ce !important; }
+
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 60px;
+  background-color: #08302F; }
+  footer .footext {
+    margin: auto;
+    padding-top: 20px;
+    font-size: 15px; }

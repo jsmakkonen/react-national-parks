@@ -1,0 +1,24 @@
+$badge-color: #4484ce;
+
+.park-card {
+    margin-left: 10px;
+    margin-bottom: 10px;
+    max-width: 300px;
+    width: 300px;
+}
+
+.park-card.card {
+    height: 600px;
+}
+
+.card-footer-badge {
+    font-size: 1rem;
+}
+
+.text-year, .text-area {
+    padding-top: 7px;
+}
+
+.badge-primary {
+    background-color: $badge-color !important;
+}

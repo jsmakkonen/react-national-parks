@@ -1,0 +1,74 @@
+[
+    {
+        "id": 10,
+        "title": "Hossa",
+        "location": "Suomussalmi",
+        "description": "Suomen 40. kansallispuisto. Hossan kylästä länteen sijaitseva erämaa-alue on osa puistoa.",
+        "year": 2017,
+        "area": 110,
+        "region": "Kainuu",
+        "sights": "Julma-Ölkky ja Värikallio",
+        "imageUrl": "http://hossa.fi/v1/wp-content/uploads/2016/10/fb-kuva.jpg",
+        "rating": 4.5
+    },
+    {
+        "id": 20,
+        "title": "Urho Kekkosen kansallispuisto",
+        "location": "Savukoski",
+        "description": "Suomen suurin kansallispuisto. Sijaitsee myös Sodankylän ja Inarin kuntien alueella.",
+        "year": 1983,
+        "area": 2550,
+        "region": "Lappi",
+        "sights": "Sokosti ja Paratiisikuru",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Harrij%C3%A4rvi_UK-puisto_02.JPG/400px-Harrij%C3%A4rvi_UK-puisto_02.JPG",
+        "rating": 4.6
+    },
+    {
+        "id": 30,
+        "title": "Nuuksio",
+        "location": "Espoo",
+        "description": "Suomen suosituin kansallispuisto. Sijaitsee myös Kirkkonummen ja Vihdin alueella.",
+        "year": 1994,
+        "area": 53,
+        "region": "Uusimaa",
+        "sights": "Pitkäjärvi ja Tervalampi",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Nuuksio_National_Park.JPG/400px-Nuuksio_National_Park.JPG",
+        "rating": 3.3
+    },
+    {
+        "id": 40,
+        "title": "Oulanka",
+        "location": "Kuusamo",
+        "description": "Karhunkierros on Suomen tunnetuin vaellusreitti. Alkaa Sallan kunnan puolelta ja päättyy Kuusamon Syötteelle.",
+        "year": 1956,
+        "area": 270,
+        "region": "Koillismaa",
+        "sights": "Rupakivi ja Ristikallio",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/FI-Oulanka_NP1.jpg/400px-FI-Oulanka_NP1.jpg",
+        "rating": 4.6
+    },
+    {
+        "id": 50,
+        "title": "Repovesi",
+        "location": "Kouvola",
+        "description": "Tunnettu hienoista maisemistaan. Sijaitsee osin myös Mäntyharjun kunnan alueella. Kooltaan kuitenkin pieni kansallispuisto.",
+        "year": 2003,
+        "area": 15,
+        "region": "Kaakkois-Suomi",
+        "sights": "Olhavanvuori",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Repoveden_Kansallispuisto_Kesayonauringossa.jpg/499px-Repoveden_Kansallispuisto_Kesayonauringossa.jpg",
+        "rating": 4.1
+    },
+    {
+        "id": 60,
+        "title": "Syötteen kansallispuisto",
+        "location": "Pudasjärvi & Posio",
+        "description": "Puisto muodostuu neljästä alueesta: Syötteestä, Maaselästä, Latva-Korte-Kärppävaarasta ja Salmitunturista.",
+        "year": 2000,
+        "area": 299,
+        "region": "Koillismaa",
+        "sights": "Ahmakallio ja Pytkynharju",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Syote_National_Park.jpg/400px-Syote_National_Park.jpg",
+        "rating": 4.2
+    }
+]
